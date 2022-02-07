@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision Graphics | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/vision-graphics/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/vision-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vision Graphics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Vision Graphics</title>
+      <link>https://chuanfang-ning.github.io/tag/vision-graphics/</link>
+    </image>
+    
+    <item>
+      <title>(Ongoing) Human-robot tandem race</title>
+      <link>https://chuanfang-ning.github.io/project/dl-autonomous/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/dl-autonomous/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Course project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;CIVIL-459 Deep learning for autonomous vehicles&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/alexandre.alahi?lang=fr&#34;&gt;Prof. Alexandre Alahi&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;Guide an autonomous driving car to react to certain patterns in noisy environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ongoing project.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-dimensional portal rendering with WebGL</title>
+      <link>https://chuanfang-ning.github.io/project/webgl-portal/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/webgl-portal/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;CS-341 Introduction to computer graphics&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;. Top 3 projects of the year.
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: &lt;a href=&#34;https://github.com/BenjaminHug8&#34;&gt;Benjamin Hug&lt;/a&gt;, Chuanfang Ning,  &lt;a href=&#34;https://github.com/ygoumaz&#34;&gt;Yannick Goumaz&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/mark.pauly&#34;&gt;Prof. Mark Pauly&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;WebGL programming to render a scene with a portal on GPU.&lt;/li&gt;
+&lt;li&gt;Across-world Shader &amp;amp; Lighting model implementation.&lt;/li&gt;
+&lt;li&gt;Navigation in the scene with keyboard and teleoperation when entering portals.&lt;/li&gt;
+&lt;li&gt;Fluid distortion effect on portal surface with special shader.&lt;/li&gt;
+&lt;li&gt;Switch portal connection when player lookes away from it. (Depth buffer check)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/owBXO2Gz0Fw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Our team won the top-3 ICG project for year 2021. Full stream &lt;a href=&#34;https://youtu.be/oN2u-o3OZ1c?t=58m22s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Poker Game Referee</title>
+      <link>https://chuanfang-ning.github.io/project/pokergame/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/pokergame/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/en/image-analysis-and-pattern-recognition-EE-451&#34;&gt;EE-451 Image Analysis and Pattern Recognition&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://github.com/tecnic08&#34;&gt;Noppawit Lertutsahakul&lt;/a&gt;, &lt;a href=&#34;https://github.com/RaphaelUebersax&#34;&gt;Raphael Uebersax&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/jean-philippe.thiran&#34;&gt;Prof. Jean-Philippe Thiran&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; &lt;a href=&#34;https://github.com/LTS5/iapr/blob/master/project/project.ipynb&#34;&gt;Project description&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Poker and dealer segmentaion from raw images with disturbances.&lt;/li&gt;
+&lt;li&gt;Bayesian classifier for poker suit.&lt;/li&gt;
+&lt;li&gt;MLP classifier for poker digits.&lt;/li&gt;
+&lt;li&gt;Predict the player rank according to game rules.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoSynPose: Automatic Generation of Synthetic Datasets for 6D Object Pose Estimation</title>
+      <link>https://chuanfang-ning.github.io/project/ue4-dataset/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ue4-dataset/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.fh-aachen.de/menschen/kallweit&#34;&gt;Prof. Stephan Kallweit&lt;/a&gt;, &lt;a href=&#34;https://www.fh-aachen.de/menschen/engemann&#34;&gt;Heiko Engemann&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;This project is a continuation to my semester project: 
+&lt;a href=&#34;https://chuanfang-ning.github.io/project/ur5-dataset/&#34; title=&#34;Automatic 6D Pose Detection Dataset Capture with UR5 Robot&#34;&gt;Automatic 6D Pose Detection Dataset Capture with UR5 Robot&lt;/a&gt;. We extended our real-world dataset generation pipeline by adding a parallel synthetic dataset generation pipeline, which allows us to improve the performance of our object detection model by combining synthetic and real-world data.&lt;/p&gt;
+&lt;p&gt;We used Unreal Engine 4 to generate a 6D pose detection dataset: &lt;a href=&#34;http://autosynpose.fh-aachen.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoSynPose&lt;/a&gt; with 6 Mio. subsegments for 5 &lt;a href=&#34;https://www.ycbbenchmarks.com/object-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YCB objects&lt;/a&gt; using 97 rendering locations in 12 different environments.&lt;/p&gt;
+&lt;p&gt;This is done by extending the open-source &lt;a href=&#34;https://github.com/NVIDIA/Dataset_Synthesizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVIDIA Deep learning Dataset Synthesizer (NDDS)&lt;/a&gt; plugin by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;extending the domain randomization from stochastic distractors to rigid bodies( roughness, specular, metallic and HUE shift).&lt;/li&gt;
+&lt;li&gt;extending the stochastic distractors with realistic distractor set (&lt;a href=&#34;https://www.ycbbenchmarks.com/object-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YCB objects&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;adding realistic collision and gravity feature&lt;/li&gt;
+&lt;li&gt;adding automatic perspective randomization&lt;/li&gt;
+&lt;li&gt;logging domain randomization parameters and enabling clustering of big dataset into sub-datasets accordingly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/q2MA7q0aaU0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;More details to be found in our &lt;a href=&#34;http://dx.doi.org/10.3233/FAIA200770&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

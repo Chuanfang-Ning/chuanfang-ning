@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/ongoing/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ongoing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Ongoing</title>
+      <link>https://chuanfang-ning.github.io/tag/ongoing/</link>
+    </image>
+    
+    <item>
+      <title>(Ongoing) Deep learning method for mobile furniture skeleton localisation </title>
+      <link>https://chuanfang-ning.github.io/project/omnibot-skeleton-localisation/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/omnibot-skeleton-localisation/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/ijspeert/&#34;&gt; Prof. Auke Ijspeert&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/alexandre.alahi?lang=fr&#34;&gt;Prof. Alexandre Alahi&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/anastasia.bolotnikova&#34;&gt;Dr. Anastasia Bolotnikova&lt;/a&gt;, &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/crespi/&#34;&gt;Dr. Alessandro Crespi&lt;/a&gt;, &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://people.epfl.ch/lixuan.tang&#34;&gt;Lixuan Tang&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;I am working as a Research Assistant at Biorob this semester to continue on my semester project : &lt;a href=&#34;https://chuanfang-ning.github.io/project/omnibot-baseline/&#34;&gt;&amp;ldquo;Omnibot: Mobile Furniture Baseline Development&amp;rdquo;&lt;/a&gt; in collaboration with Lixuan Tang.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We are extending the Omnibot design to multiple copies which prepares for a swarm robotics framework.&lt;/li&gt;
+&lt;li&gt;We are evaluating our current furniture skeleton localisation model on the Omnibot with the help of key-point localisation with Optitrack system.&lt;/li&gt;
+&lt;li&gt;We are facilitating the skeleton localisation model with real and synthetic data for Omnibot use cases.&lt;/li&gt;
+&lt;li&gt;We will improve the network structure based on the test performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To be updated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Ongoing) Human-robot tandem race</title>
+      <link>https://chuanfang-ning.github.io/project/dl-autonomous/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/dl-autonomous/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Course project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;CIVIL-459 Deep learning for autonomous vehicles&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/alexandre.alahi?lang=fr&#34;&gt;Prof. Alexandre Alahi&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;Guide an autonomous driving car to react to certain patterns in noisy environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ongoing project.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

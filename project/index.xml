@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/project/</link>
+      <atom:link href="https://chuanfang-ning.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://chuanfang-ning.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>(Ongoing) Deep learning method for mobile furniture skeleton localisation </title>
+      <link>https://chuanfang-ning.github.io/project/omnibot-skeleton-localisation/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/omnibot-skeleton-localisation/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/ijspeert/&#34;&gt; Prof. Auke Ijspeert&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/alexandre.alahi?lang=fr&#34;&gt;Prof. Alexandre Alahi&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/anastasia.bolotnikova&#34;&gt;Dr. Anastasia Bolotnikova&lt;/a&gt;, &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/crespi/&#34;&gt;Dr. Alessandro Crespi&lt;/a&gt;, &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://people.epfl.ch/lixuan.tang&#34;&gt;Lixuan Tang&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;I am working as a Research Assistant at Biorob this semester to continue on my semester project : &lt;a href=&#34;https://chuanfang-ning.github.io/project/omnibot-baseline/&#34;&gt;&amp;ldquo;Omnibot: Mobile Furniture Baseline Development&amp;rdquo;&lt;/a&gt; in collaboration with Lixuan Tang.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We are extending the Omnibot design to multiple copies which prepares for a swarm robotics framework.&lt;/li&gt;
+&lt;li&gt;We are evaluating our current furniture skeleton localisation model on the Omnibot with the help of key-point localisation with Optitrack system.&lt;/li&gt;
+&lt;li&gt;We are facilitating the skeleton localisation model with real and synthetic data for Omnibot use cases.&lt;/li&gt;
+&lt;li&gt;We will improve the network structure based on the test performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To be updated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Ongoing) Human-robot tandem race</title>
+      <link>https://chuanfang-ning.github.io/project/dl-autonomous/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/dl-autonomous/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Course project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;CIVIL-459 Deep learning for autonomous vehicles&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/alexandre.alahi?lang=fr&#34;&gt;Prof. Alexandre Alahi&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;Guide an autonomous driving car to react to certain patterns in noisy environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ongoing project.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>U_Cite: America politician network analysis based on Quotebank</title>
+      <link>https://chuanfang-ning.github.io/project/ucite/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ucite/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://dlab.epfl.ch/teaching/fall2021/cs401/&#34;&gt;CS-401 Applied Data Analysis&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://github.com/irvin-mero&#34;&gt;Irvin Mero Zambrano&lt;/a&gt;, &lt;a href=&#34;https://github.com/tomcastigl&#34;&gt;Thomas Castiglione&lt;/a&gt;, &lt;a href=&#34;https://github.com/LyKex&#34;&gt;Guoyuan Liu&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/robert.west?lang=en&#34;&gt;Prof. Robert West&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/record/4277311#.Yf_ZA-rMJm8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quotebank&lt;/a&gt; is a dataset of 235 million unique, speaker-attributed quotations that were extracted from 196 million English news articles crawled from over 377 thousand English web domains. The project aims at analyzing the quotebank mentions in between year 2015 and 2020 to reveal the bi-polar political landscape of America. Keypoints in the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;data cleaning and preprocessing pipeline from original &lt;a href=&#34;https://zenodo.org/record/4277311#.Yf_ZA-rMJm8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quotebank quotations&lt;/a&gt;, &lt;a href=&#34;https://dumps.wikimedia.org/wikidatawiki/entities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikidata dump&lt;/a&gt; and &lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QAN5VX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Partisan Audience Bias Scores Dataset&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;political mention analysis pipeline including topic, sentiment and bias analysis.&lt;/li&gt;
+&lt;li&gt;political network analysis pipeline including network construction, community/centrality analysis and edge/node feature detection.&lt;/li&gt;
+&lt;li&gt;visualisation pipeline for the analysis above with interactive network graphs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details to be found in our &lt;a href=&#34;https://irvin-mero.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; and &lt;a href=&#34;https://irvin-mero.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FPGA master unit design for LT24 Display on DE0-Nano-SoC</title>
+      <link>https://chuanfang-ning.github.io/project/fpga/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/fpga/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/embedded-systems-CS-473&#34;&gt;EE-473 Embedded Systems&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: &lt;a href=&#34;https://www.linkedin.com/in/alexander-sigrist-397948149?originalSubdomain=ch&#34;&gt;Alexander Sigrist&lt;/a&gt;, Chuanfang Ning &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/rene.beuchat?lang=fr&#34;&gt;Prof. René Beuchat&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Master unit design for LT24 LCD display ILI9341 controller on DE0-Nano-SoC FPGA.&lt;/li&gt;
+&lt;li&gt;Softcore processor hardware programming with VHDL in Quartus.&lt;/li&gt;
+&lt;li&gt;Simulation and verification of the design in Modelsim.&lt;/li&gt;
+&lt;li&gt;Integration of the LCD display with a TRDB-D5M camera of our partner group to build a live streaming system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo with camera:&lt;/p&gt;
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/fpga_lcd.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 500px;&#34;/&gt;
+&lt;p&gt;More details can be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/fpga_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omnibot: Mobile furniture baseline development</title>
+      <link>https://chuanfang-ning.github.io/project/omnibot-baseline/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/omnibot-baseline/</guid>
+      <description>&lt;p&gt;Semester Project 2021 Fall at &lt;a href=&#34;https://www.epfl.ch/labs/biorob/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioRob&lt;/a&gt; and &lt;a href=&#34;https://www.epfl.ch/labs/rrl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reconfigurable Robotics Lab&lt;/a&gt; with 6.0/6.0.&lt;/p&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; This project is funded by the CIS Research Pillar, &lt;a href=&#34;https://www.epfl.ch/research/domains/cis/cis-research-pillars/intelligent-assisted-robotics/&#34;&gt;Intelligent Assistive Robotics Grant&lt;/a&gt;. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/ijspeert/&#34;&gt; Prof. Auke Ijspeert&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/anastasia.bolotnikova&#34;&gt;Dr. Anastasia Bolotnikova&lt;/a&gt;, &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/crespi/&#34;&gt;Dr. Alessandro Crespi&lt;/a&gt;, &lt;/font&gt;&lt;/div&gt;
+&lt;h3 id=&#34;project-goal&#34;&gt;Project Goal&lt;/h3&gt;
+&lt;p&gt;The project aims at extending an &lt;a href=&#34;https://www.robotshop.com/en/3wd-100mm-omni-directional-triangle-mobile-robot.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Omni-directional Drive Robot Platform&lt;/a&gt; from scratch to a fully functional mobile robot that can drive furniture around according to user needs. The project includes 4 parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mechanical part:
+&lt;ul&gt;
+&lt;li&gt;Design and implement attachment-configuration from the robot platform to various kinds of furniture.&lt;/li&gt;
+&lt;li&gt;Extend the platform modules according to user demands (Bluetooth, LED, sensors).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Electronic part:
+&lt;ul&gt;
+&lt;li&gt;Extend the default board coming with the robot platform from a limited stand-alone system to a system allowing for interactive control and module extension.&lt;/li&gt;
+&lt;li&gt;Optimizing the circuit design with our custom PCB.&lt;/li&gt;
+&lt;li&gt;Implement the teleoperation of sensors/actuators on the robot platform with ROS_Serial via Bluetooth.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Algorithm part:
+&lt;ul&gt;
+&lt;li&gt;Real-time localisation with Optitrack.&lt;/li&gt;
+&lt;li&gt;Navigation with simplified visibility graph and A*.&lt;/li&gt;
+&lt;li&gt;Interactive control including program, voice and gesture interfaces.&lt;/li&gt;
+&lt;li&gt;Android application development for mobile furniture remote control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Project repo archived at &lt;a href=&#34;https://ponyo.epfl.ch/students/mobfur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;internal Gitlab&lt;/a&gt; (requires EPFL access).&lt;/p&gt;
+&lt;p&gt;The Android application control interface with joystick and buttons.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://chuanfang-ning.github.io/media/omnibot_app.png&#34; alt=&#34;Android application&#34; style=&#34;width: 350px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Update 2022-02: Our custom PCB arrives!
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/omnibot_pcb.jpg&#34; alt=&#34;Custom PCB&#34; style=&#34;width: 350px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Demo playlists:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/videoseries?list=PLGBGASM3rFjKbd8nlVTlNFSlLiY6I2V4w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;More details to be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Omnibot_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt; and &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Omnibot_slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic mobile robot design with Thymio</title>
+      <link>https://chuanfang-ning.github.io/project/thymio-simple/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/thymio-simple/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/en/basics-of-mobile-robotics-MICRO-452&#34;&gt;MICRO-452 Basics of mobile robotics&lt;/a&gt; with 6.0/6.0&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://ch.linkedin.com/in/erfan-etesami&#34;&gt;Erfan Etesami&lt;/a&gt;, &lt;a href=&#34;https://github.com/hmiranda-queiros&#34;&gt; Hugo Miranda Queiros&lt;/a&gt;, &lt;a href=&#34;https://it.linkedin.com/in/laura-boca-de-giuli-0245a3218?trk=public_profile_samename-profile&#34;&gt;Laura Boca de Giuli&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;http://people.epfl.ch/francesco.mondada&#34;&gt;Prof. Francesco Mondada&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;This is the course project of Basics of mobile robotics. The project goal is to have a minimal but comlpete mobile robot pipeline design on &lt;a href=&#34;https://www.thymio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thymio robot&lt;/a&gt;. The project covers basic components of a mobile robotic task as shown below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;global mapping with Arcuo markers and HSV&lt;/li&gt;
+&lt;li&gt;path planning with A* on visibility graph.&lt;/li&gt;
+&lt;li&gt;kalman filter with odometry and camera.&lt;/li&gt;
+&lt;li&gt;motion control with waypoints following.&lt;/li&gt;
+&lt;li&gt;local avoidance with left-wall following.&lt;/li&gt;
+&lt;li&gt;robust to kidnap and unexpected disturbance.&lt;/li&gt;
+&lt;li&gt;live visualisation of camera, filtered estimation and uncertainties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/AHRPRVniL0A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>EMG Control of haptic paddle</title>
+      <link>https://chuanfang-ning.github.io/project/emg-haptics/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/emg-haptics/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/haptic-human-robot-interfaces-MICRO-553&#34;&gt;MICRO-553 Haptic human robot interfaces&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://www.linkedin.com/in/dorian-bignet-92b38816b?originalSubdomain=fr&#34;&gt;Dorian Bignet&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/mohamed.bouri?lang=en&#34;&gt;Prof. Mohamed Bouri&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://people.epfl.ch/evgenia.roussinova?lang=en&#34;&gt;Dr. Evgenia Roussinova&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;The aim of this specialization project is to design and implement a control strategy allowing a user to
+control the haptic paddle through the contraction of a muscle, which is recorded by electromyography (EMG). The lab specialisation includes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;processing and filtering of raw EMG signal&lt;/li&gt;
+&lt;li&gt;developing EMG control strategies of haptic paddle&lt;/li&gt;
+&lt;li&gt;applying the control strategies to 3 different application:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Assistive use case: facilate human in strength tasks&lt;/li&gt;
+&lt;li&gt;Rehabilitation use case: reinforce muscle fibers and help reinnervation after a stroke&lt;/li&gt;
+&lt;li&gt;Grasping use case: combined position &amp;amp; torque control for hand prosthesis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details can be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/HHRI_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_RMS_filtering.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 1 Band-pass filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_RMS_filtering_lp.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 2 RMS filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_moving_filtered.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 3 Moving threshold filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/tremor.gif&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 4 Tremored EMG control&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/no_tremor.gif&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 5 Tremor-free EMG control (+moving threshold)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-dimensional portal rendering with WebGL</title>
+      <link>https://chuanfang-ning.github.io/project/webgl-portal/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/webgl-portal/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;CS-341 Introduction to computer graphics&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;. Top 3 projects of the year.
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: &lt;a href=&#34;https://github.com/BenjaminHug8&#34;&gt;Benjamin Hug&lt;/a&gt;, Chuanfang Ning,  &lt;a href=&#34;https://github.com/ygoumaz&#34;&gt;Yannick Goumaz&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/mark.pauly&#34;&gt;Prof. Mark Pauly&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;WebGL programming to render a scene with a portal on GPU.&lt;/li&gt;
+&lt;li&gt;Across-world Shader &amp;amp; Lighting model implementation.&lt;/li&gt;
+&lt;li&gt;Navigation in the scene with keyboard and teleoperation when entering portals.&lt;/li&gt;
+&lt;li&gt;Fluid distortion effect on portal surface with special shader.&lt;/li&gt;
+&lt;li&gt;Switch portal connection when player lookes away from it. (Depth buffer check)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/owBXO2Gz0Fw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Our team won the top-3 ICG project for year 2021. Full stream &lt;a href=&#34;https://youtu.be/oN2u-o3OZ1c?t=58m22s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Poker Game Referee</title>
+      <link>https://chuanfang-ning.github.io/project/pokergame/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/pokergame/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/en/image-analysis-and-pattern-recognition-EE-451&#34;&gt;EE-451 Image Analysis and Pattern Recognition&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://github.com/tecnic08&#34;&gt;Noppawit Lertutsahakul&lt;/a&gt;, &lt;a href=&#34;https://github.com/RaphaelUebersax&#34;&gt;Raphael Uebersax&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/jean-philippe.thiran&#34;&gt;Prof. Jean-Philippe Thiran&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; &lt;a href=&#34;https://github.com/LTS5/iapr/blob/master/project/project.ipynb&#34;&gt;Project description&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Poker and dealer segmentaion from raw images with disturbances.&lt;/li&gt;
+&lt;li&gt;Bayesian classifier for poker suit.&lt;/li&gt;
+&lt;li&gt;MLP classifier for poker digits.&lt;/li&gt;
+&lt;li&gt;Predict the player rank according to game rules.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sim2Real Development for Thymio with ROS</title>
+      <link>https://chuanfang-ning.github.io/project/sim2real-thymio/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/sim2real-thymio/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/robotics-practicals-MICRO-453&#34;&gt;MICRO-453 Robotics Practicals&lt;/a&gt; with 5.8/6.0&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://github.com/Jianhao-zheng&#34;&gt;Jianhao Zheng&lt;/a&gt;, &lt;a href=&#34;https://github.com/hibetterheyj/&#34;&gt;Yujie He&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example page&lt;/strong&gt;: &lt;a href=&#34;https://go.epfl.ch/ros_basics_final_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://go.epfl.ch/ros_basics_final_2021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⭐ &lt;strong&gt;2021/04: Update our project &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/ROS_Basics_Report.pdf&#34; target=&#34;_blank&#34;&gt;Report&lt;/a&gt; !&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;-keywords&#34;&gt;🔑 Keywords&lt;/h2&gt;
+&lt;p&gt;Thymio, PID, Way following, Obstacle avoidance, Pledge algorithm, Aruco marker, Sim2Real, Gazebo&lt;/p&gt;
+&lt;h2 id=&#34;-how-to-use&#34;&gt;🔨 How to use?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;visualize Thymio in RViz&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;roslaunch ros_basics_exercise thymio_simple_rviz.launch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;simulate Thymio robot in Gazebo with an interactive window&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;roslaunch ros_basics_control simu_thymio.launch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;adding waypoints and obstacle for the robot&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;roslaunch ros_basics_control simu_thymio.launch
+roslaunch ros_basics_exercise set_simu_waypoints_obstacle.launch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tune with rqt tools (rqt_plot, rqt_reconfigrure, rqt_image_show)&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;roslaunch ros_basics_control simu_thymio.launch
+roslaunch ros_basics_exercise tune_with_rqt.launch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;visualize the rosbag files&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;roslaunch ros_basics_exercise view_with_rosbag.launch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;extract pose and sensor information from rosbag files&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;roslaunch ros_basics_exercise view_with_rosbag.launch
+# open a new terminal
+rosrun ros_basics_exercise topic_reader.py
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;plot trajectory comparison between real and simulation (using matlab)&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;cd results_from_bag/
+# run `plot_traj_comp.m` in MATLAB
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./results_from_bag/traj_thymio_simulation_navigation_with_obstacle_avoidance.png&#34; alt=&#34;traj_thymio_simulation_navigation_with_obstacle_avoidance&#34; style=&#34;zoom:30%;&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;connect to the real Thymio&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;pip install thymiodirect
+roslaunch ros_basics_control real_thymio.launch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;example-rosbag-files&#34;&gt;🎒Example rosbag files&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;rosbags can be downloaded from &lt;a href=&#34;https://drive.google.com/drive/folders/19KUzVqVasN7F2TfLpSc37OlQIdFQcbJs?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For more info, you can refer to &lt;a href=&#34;./src/ros_basics_exercise/rosbags/readme.md&#34;&gt;&lt;strong&gt;readme.md&lt;/strong&gt; in ./src/ros_basics_exercise/rosbags/&lt;/a&gt; folder.&lt;/p&gt;
+&lt;h2 id=&#34;-acknowledgement&#34;&gt;⭐ Acknowledgement&lt;/h2&gt;
+&lt;p&gt;Thanks to Vaios Papaspyros and Rafael Barmak from MOBOTS at EPFL for the amazing course tutorials !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MPC Control of Quadcopter</title>
+      <link>https://chuanfang-ning.github.io/project/mpc-mini-project/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/mpc-mini-project/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;ME-425 Model Predictive Control&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/colin.jones?lang=en&#34;&gt;Prof. Colin Jones&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;MPC controller design in matlab with &lt;a href=&#34;https://www.gurobi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gurobi&lt;/a&gt; and &lt;a href=&#34;https://web.casadi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Casadi&lt;/a&gt; optimizer.&lt;/li&gt;
+&lt;li&gt;linear MPC for decomposed quadcopter systems&lt;/li&gt;
+&lt;li&gt;offset-free MPC tracking regulator in case of fluctuating quadcopter mass&lt;/li&gt;
+&lt;li&gt;non-linear MPC for integral quadcopter system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/LMPC.png&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 170px;&#34; /&gt;
+&lt;figcaption&gt;Trajectory following with combined linear MPC controller&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/offset_free_MPC.png&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Trajectory recovery from mass disturbance with offset-free MPC controller&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/NMPC.png&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Trajectory following with non-linear MPC controller&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/offset_free_diagrams.png&#34; alt=&#34;Quadcopter trajecotry following with combined linear MPC controller&#34; style=&#34;width: 450px;height: 250px;&#34; /&gt;
+&lt;figcaption&gt;Quadcopter states during offset-free MPC simulation&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/NMPC_diagrams.png&#34; alt=&#34;Demo&#34; style=&#34;width: 450px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Quadcopter states during NMPC simulation&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>Improvement on Optobot - an Automated system for Neurogenetics Experimentation</title>
+      <link>https://chuanfang-ning.github.io/project/optobot/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/optobot/</guid>
+      <description>&lt;p&gt;Semester Project 2020 Fall at &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramdya Lab (Neuroengineering Laboratory)&lt;/a&gt; with 6.0/6.0.&lt;/p&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://people.epfl.ch/pavan.ramdya?lang=en&#34;&gt;Prof. Pavan Ramdya&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/victor.lobatorios&#34;&gt;Dr. Victor Lobato&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/daniel.morales&#34;&gt;Dr. Daniel Morales&lt;/a&gt;, &lt;/font&gt;&lt;/div&gt;
+&lt;h2 id=&#34;project-goal&#34;&gt;Project goal&lt;/h2&gt;
+&lt;p&gt;This semester project aims at redesigning, prototyping and programming the carousel, gripper and arena module for the &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/wp-content/uploads/2019/10/Robotic-experimental-automation.mp4?_=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;old Optobot system&lt;/a&gt; to increase its precision on carrying out optogenetic experimentation, which helps to expose Drosophilas to accurately controlled stimuli and record their behaviors. More info on the &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lab page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The redesigned model addressed 3 catastrophic failure modes of the previous design(rotation error, gripping error and returning error) which have made the unsupervised experiments impossible.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/failure_1.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34; /&gt;
+&lt;figcaption&gt;Rotation error (misalignment breaks the shelf)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/failure_2.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34;/&gt;
+&lt;figcaption&gt;gripping error (invalid data with empty frames)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/failure_3.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34;/&gt;
+&lt;figcaption&gt;returning error (remaining container breaks the shelf)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;project-content&#34;&gt;Project content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;design and model new carousel, gripper and arena module to resolve the diagnosed failure modes from hardware.&lt;/li&gt;
+&lt;li&gt;close the control loop of motor motion with new sensor and increase system precision from software.&lt;/li&gt;
+&lt;li&gt;manufacture the prototype of the design in the workshop.&lt;/li&gt;
+&lt;li&gt;validate and evolve the design until a functional version.&lt;/li&gt;
+&lt;li&gt;adapt control logic and update programs to fit the new design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo:&lt;/h2&gt;
+&lt;p&gt;Note that the shelf material was out of stock by the semester end. The demo is a show case without shelf. A pink marker is pasted on carousel base to represent the rotating shelves.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wxcB3_f3D98&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More details to be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Optobot_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt; and &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Optobot_slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CPG Control of three-link biped walker</title>
+      <link>https://chuanfang-ning.github.io/project/cpg-biped-walker/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/cpg-biped-walker/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/en/legged-robots-MICRO-507&#34;&gt;MICRO-507 Legged Robots&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://people.epfl.ch/guilain.brunoro?lang=en&#34;&gt;Guilain Brunoro&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/mingchi.hou/?lang=en&#34;&gt;Mingchi Hou&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/ijspeert/&#34;&gt;Prof. Auke Ijspeert&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;kinetic, dynamic and impact map modelling of a three-link-biped walker in Matlab&lt;/li&gt;
+&lt;li&gt;animated the walker in simulation given the model, actuation and disturbance&lt;/li&gt;
+&lt;li&gt;implemented a CPG controller to mimic the torque control obtained from a PD controller&lt;/li&gt;
+&lt;li&gt;evaluated the control metrics in terms of robustness against perturbations, walking speed, gait length/frequencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Control law: mixed control with CPG (30% feedforward) + PD(70% feedback).
+Object function:&lt;/p&gt;
+&lt;div&gt;&lt;font size=&#39;2&#39;&gt;$$f(p)=w_1\times|\dot{x}\_{hip}-\dot{\bar{x}}\_{hip}(p)|+w_2\times CoT(p)+w_3\times| z\_{hip}-\bar{z}\_{hip}(p)|+w_4\times| f\_{rq}-\bar{f}\_{rq}(p)|$$&lt;/font&gt;&lt;/div&gt;
+The object function always minimizes the cost of transfer and tries to mimic the pattern generated by a PD controller.
+The object function can be edited to generate gait with certain step length or frequency or maximize the gait speed.
+&lt;p&gt;Demo for our project:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JjUJ8tmacjw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoSynPose: Automatic Generation of Synthetic Datasets for 6D Object Pose Estimation</title>
+      <link>https://chuanfang-ning.github.io/project/ue4-dataset/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ue4-dataset/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.fh-aachen.de/menschen/kallweit&#34;&gt;Prof. Stephan Kallweit&lt;/a&gt;, &lt;a href=&#34;https://www.fh-aachen.de/menschen/engemann&#34;&gt;Heiko Engemann&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;This project is a continuation to my semester project: 
+&lt;a href=&#34;https://chuanfang-ning.github.io/project/ur5-dataset/&#34; title=&#34;Automatic 6D Pose Detection Dataset Capture with UR5 Robot&#34;&gt;Automatic 6D Pose Detection Dataset Capture with UR5 Robot&lt;/a&gt;. We extended our real-world dataset generation pipeline by adding a parallel synthetic dataset generation pipeline, which allows us to improve the performance of our object detection model by combining synthetic and real-world data.&lt;/p&gt;
+&lt;p&gt;We used Unreal Engine 4 to generate a 6D pose detection dataset: &lt;a href=&#34;http://autosynpose.fh-aachen.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoSynPose&lt;/a&gt; with 6 Mio. subsegments for 5 &lt;a href=&#34;https://www.ycbbenchmarks.com/object-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YCB objects&lt;/a&gt; using 97 rendering locations in 12 different environments.&lt;/p&gt;
+&lt;p&gt;This is done by extending the open-source &lt;a href=&#34;https://github.com/NVIDIA/Dataset_Synthesizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVIDIA Deep learning Dataset Synthesizer (NDDS)&lt;/a&gt; plugin by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;extending the domain randomization from stochastic distractors to rigid bodies( roughness, specular, metallic and HUE shift).&lt;/li&gt;
+&lt;li&gt;extending the stochastic distractors with realistic distractor set (&lt;a href=&#34;https://www.ycbbenchmarks.com/object-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YCB objects&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;adding realistic collision and gravity feature&lt;/li&gt;
+&lt;li&gt;adding automatic perspective randomization&lt;/li&gt;
+&lt;li&gt;logging domain randomization parameters and enabling clustering of big dataset into sub-datasets accordingly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/q2MA7q0aaU0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;More details to be found in our &lt;a href=&#34;http://dx.doi.org/10.3233/FAIA200770&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic 6D Pose Detection Dataset Capture with UR5 Robot</title>
+      <link>https://chuanfang-ning.github.io/project/ur5-dataset/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ur5-dataset/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; &lt;a href=&#34;https://www.fh-aachen.de/fachbereiche/maschinenbau-und-mechatronik/forschung-projekte/studentische-projekte/pro8projekt2&#34;&gt;Semester project&lt;/a&gt; at FH Aachen, Wintersemester 2019 &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.fh-aachen.de/menschen/kallweit&#34;&gt;Prof. Stephan Kallweit&lt;/a&gt;, &lt;a href=&#34;https://www.fh-aachen.de/menschen/engemann&#34;&gt;Heiko Engemann&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;This project provides an automatic pipeline of creating a real-world 6D pose detection dataset with the help of a wandering UR5 robotic arm on a mobile platform. The 3D model of the training object and its initial offset to the robot base are to be provided. The dataset consits of RGB images, depth images, segmentation masks and 6D poses for the training object.&lt;/p&gt;
+&lt;p&gt;This automatic pipeline is mainly targeted at industrial &lt;strong&gt;manipulating&lt;/strong&gt; or &lt;strong&gt;quality inspection&lt;/strong&gt; tasks, where a deep learning model is used to identify/inspect products with &lt;strong&gt;accurate known models&lt;/strong&gt;. The considered application flowchart for the project is shown as in the figure below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo1.png&#34; alt=&#34;Demo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this project, the UR5 robot is mounted on a mobile platform and holds an Intel D435 RGBD camera to wander around the object of interest with the following pattern:&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo2.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Robot stop at a place to scan 1/8 sphere space of the training object&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo3.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;At each scanning point the robot turns the sensor to get multi-perspective images&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;The RGB and depth images are captured by the sensor and the ground truth of object&amp;rsquo;s 6D poses, instance/segmentation mask and 3D bounding boxes are calculated from the camera matrix corresponding to robot&amp;rsquo;s joint states in real time.&lt;/p&gt;
+&lt;p&gt;Experiment:&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo4.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Robot and environment setup&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo5.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Captured dataset samples&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Result:&lt;/p&gt;
+&lt;p&gt;To evaluate the quality of ground truth generated by the method, we annotated the ground truth directly from RGB images once again and checked the BF-Score and IoU of real ground truth with the ground truth generated by our method. The subsegment with YCB bottle got an average score of 0.5156 (BF) and 0.8451 (IoU). The subsegment with Lego car got an average score of 0.8618 (BF) and 0.8551 (IoU).
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo6.png&#34; alt=&#34;Demo&#34; style=&#34;height: 300px;&#34;/&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font size=&#39;2&#39;&gt; (Left) Generated ground truth, (Middle) Manually annotated ground truth, (Right) Overlay for error checks&lt;/font&gt;&lt;/center&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+&lt;p&gt;A simple show case in Gazebo simulation:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RGKMWWD_0eM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;More details to be found in the &lt;a href=&#34;https://github.com/Chuanfang-Neptune/Realworld_dataset_capturer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digitales Karakuri-Intelligente Wägesystem (auf Deutsch)</title>
+      <link>https://chuanfang-ning.github.io/project/karakuri-waegesystem/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/karakuri-waegesystem/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Projektmanagement für Fachmodul &lt;a href=&#34;https://www.campus.fh-aachen.de/campus/all/module.asp?gguid=0xC2572CEAF38E4C378153B2D7D5317965&amp;fieldgguid=0x0752E81BA15947CD82BB4F7EC6F6F62F&amp;mode=field&amp;findmodule=&amp;tguid=0xF73B6CC594EC495FB0CB462AC02D024D&amp;lang=de&#34;&gt;8518018: Mechatronische Systeme und Embedded Systems&lt;/a&gt; an FH Aachen&lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Mechanischer Umbau eines bewegungslosen Regal zu einem angetriebenen Regal von DS3120 Servomotor.&lt;/li&gt;
+&lt;li&gt;Arduino Programmierung in C++ für die Prozesssteuerung von Motorbewegung und LCD Bildschirm unter Benutzerinteraktion.&lt;/li&gt;
+&lt;li&gt;Nach Entnahme einer korrekten Anzahl von Teilen nach dem Auftrag gibt das System die Kiste frei und liefert die nächste Kiste mit Teilen zu.&lt;/li&gt;
+&lt;li&gt;Informationen über die zu entnehmenden Teilen und Warnungenen sind auf LCD Bildschirm angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Weitere Details finden Sie in &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Karakuri_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pin matrix support mechanism for 3D printing</title>
+      <link>https://chuanfang-ning.github.io/project/pin-matrix/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/pin-matrix/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.linkedin.com/in/%E7%8E%89-%E7%8E%8B-055391a1?trk=pub-pbmap&amp;originalSubdomain=cn&#34;&gt;Prof. Yu Wang&lt;/a&gt;, Xiaoyang Zhang &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Group project with &lt;a href=&#34;https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7k06m0v5740p609f6v0my0h2036096&#34;&gt;patent (CN110193929A)&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Members: Chuanfang Ning, &lt;a href=&#34;https://www.linkedin.com/in/yizhen-li-a24b67210?originalSubdomain=cn&#34;&gt;Yizhen Li&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/yucheng-zhang-324839220?originalSubdomain=de&#34;&gt;Yucheng Zhang&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.cn/in/zeling-long-0b3124197&#34;&gt;Zeling Long&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and prototyped a supporting mechanism with 400 pins that can move and lock independently to support different less-supported shape during additive manufacturing.&lt;/li&gt;
+&lt;li&gt;Developed a C++ program with simple user interface to convert a 3D-print model automatically into a complementary supporting shape.&lt;/li&gt;
+&lt;li&gt;Drove 25 servo motors to drive the 400 pins to form the generated supporting shape.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fischer Intelligent Factory 4.0 Automation</title>
+      <link>https://chuanfang-ning.github.io/project/fischer-intelligent-factory/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/fischer-intelligent-factory/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Research Assistant at &lt;a href=&#34;https://srias.tongji.edu.cn/&#34;&gt;Research Institution for Intelligent Autonomous Systems, Shanghai under Intelligent Manufacturing Grant&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://srias.tongji.edu.cn/b4/81/c17867a177281/page.htm&#34;&gt;Prof. Nan Xie&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;h2 id=&#34;project-goal&#34;&gt;Project goal&lt;/h2&gt;
+&lt;p&gt;The project aims at simulating the intelligent factory processing pipeline with a &lt;a href=&#34;https://www.fischertechnik.de/en/simulating/industry-4-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miniature model&lt;/a&gt; from Fischer.&lt;/p&gt;
+&lt;h2 id=&#34;project-contents&#34;&gt;Project contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;implemented distributed control for multi-processing stations on SIEMENS PLC S-1500.&lt;/li&gt;
+&lt;li&gt;programed intelligent ware management, processing and sorting pipeline with TIA Portal.&lt;/li&gt;
+&lt;li&gt;developed a human-model interface for the industrial process control with SIEMENS Comfort Panel.&lt;/li&gt;
+&lt;li&gt;Interactive control of industrial process with Virtual Reality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;demo-for-industrial-pipeline-showcase&#34;&gt;Demo for industrial pipeline showcase&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uWjZg3jSBmg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

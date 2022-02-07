@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rehabilitation | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/rehabilitation/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/rehabilitation/index.xml" rel="self" type="application/rss+xml" />
+    <description>rehabilitation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>rehabilitation</title>
+      <link>https://chuanfang-ning.github.io/tag/rehabilitation/</link>
+    </image>
+    
+    <item>
+      <title>EMG Control of haptic paddle</title>
+      <link>https://chuanfang-ning.github.io/project/emg-haptics/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/emg-haptics/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/haptic-human-robot-interfaces-MICRO-553&#34;&gt;MICRO-553 Haptic human robot interfaces&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://www.linkedin.com/in/dorian-bignet-92b38816b?originalSubdomain=fr&#34;&gt;Dorian Bignet&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/mohamed.bouri?lang=en&#34;&gt;Prof. Mohamed Bouri&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://people.epfl.ch/evgenia.roussinova?lang=en&#34;&gt;Dr. Evgenia Roussinova&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;The aim of this specialization project is to design and implement a control strategy allowing a user to
+control the haptic paddle through the contraction of a muscle, which is recorded by electromyography (EMG). The lab specialisation includes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;processing and filtering of raw EMG signal&lt;/li&gt;
+&lt;li&gt;developing EMG control strategies of haptic paddle&lt;/li&gt;
+&lt;li&gt;applying the control strategies to 3 different application:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Assistive use case: facilate human in strength tasks&lt;/li&gt;
+&lt;li&gt;Rehabilitation use case: reinforce muscle fibers and help reinnervation after a stroke&lt;/li&gt;
+&lt;li&gt;Grasping use case: combined position &amp;amp; torque control for hand prosthesis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details can be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/HHRI_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_RMS_filtering.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 1 Band-pass filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_RMS_filtering_lp.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 2 RMS filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_moving_filtered.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 3 Moving threshold filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/tremor.gif&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 4 Tremored EMG control&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/no_tremor.gif&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 5 Tremor-free EMG control (+moving threshold)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

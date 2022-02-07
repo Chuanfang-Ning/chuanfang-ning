@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation Systems | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/automation-systems/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/automation-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automation Systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Automation Systems</title>
+      <link>https://chuanfang-ning.github.io/tag/automation-systems/</link>
+    </image>
+    
+    <item>
+      <title>Improvement on Optobot - an Automated system for Neurogenetics Experimentation</title>
+      <link>https://chuanfang-ning.github.io/project/optobot/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/optobot/</guid>
+      <description>&lt;p&gt;Semester Project 2020 Fall at &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramdya Lab (Neuroengineering Laboratory)&lt;/a&gt; with 6.0/6.0.&lt;/p&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://people.epfl.ch/pavan.ramdya?lang=en&#34;&gt;Prof. Pavan Ramdya&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/victor.lobatorios&#34;&gt;Dr. Victor Lobato&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/daniel.morales&#34;&gt;Dr. Daniel Morales&lt;/a&gt;, &lt;/font&gt;&lt;/div&gt;
+&lt;h2 id=&#34;project-goal&#34;&gt;Project goal&lt;/h2&gt;
+&lt;p&gt;This semester project aims at redesigning, prototyping and programming the carousel, gripper and arena module for the &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/wp-content/uploads/2019/10/Robotic-experimental-automation.mp4?_=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;old Optobot system&lt;/a&gt; to increase its precision on carrying out optogenetic experimentation, which helps to expose Drosophilas to accurately controlled stimuli and record their behaviors. More info on the &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lab page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The redesigned model addressed 3 catastrophic failure modes of the previous design(rotation error, gripping error and returning error) which have made the unsupervised experiments impossible.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/failure_1.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34; /&gt;
+&lt;figcaption&gt;Rotation error (misalignment breaks the shelf)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/failure_2.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34;/&gt;
+&lt;figcaption&gt;gripping error (invalid data with empty frames)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/failure_3.gif&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34;/&gt;
+&lt;figcaption&gt;returning error (remaining container breaks the shelf)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;project-content&#34;&gt;Project content&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;design and model new carousel, gripper and arena module to resolve the diagnosed failure modes from hardware.&lt;/li&gt;
+&lt;li&gt;close the control loop of motor motion with new sensor and increase system precision from software.&lt;/li&gt;
+&lt;li&gt;manufacture the prototype of the design in the workshop.&lt;/li&gt;
+&lt;li&gt;validate and evolve the design until a functional version.&lt;/li&gt;
+&lt;li&gt;adapt control logic and update programs to fit the new design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;demo&#34;&gt;Demo:&lt;/h2&gt;
+&lt;p&gt;Note that the shelf material was out of stock by the semester end. The demo is a show case without shelf. A pink marker is pasted on carousel base to represent the rotating shelves.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wxcB3_f3D98&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More details to be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Optobot_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt; and &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Optobot_slides.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digitales Karakuri-Intelligente Wägesystem (auf Deutsch)</title>
+      <link>https://chuanfang-ning.github.io/project/karakuri-waegesystem/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/karakuri-waegesystem/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Projektmanagement für Fachmodul &lt;a href=&#34;https://www.campus.fh-aachen.de/campus/all/module.asp?gguid=0xC2572CEAF38E4C378153B2D7D5317965&amp;fieldgguid=0x0752E81BA15947CD82BB4F7EC6F6F62F&amp;mode=field&amp;findmodule=&amp;tguid=0xF73B6CC594EC495FB0CB462AC02D024D&amp;lang=de&#34;&gt;8518018: Mechatronische Systeme und Embedded Systems&lt;/a&gt; an FH Aachen&lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Mechanischer Umbau eines bewegungslosen Regal zu einem angetriebenen Regal von DS3120 Servomotor.&lt;/li&gt;
+&lt;li&gt;Arduino Programmierung in C++ für die Prozesssteuerung von Motorbewegung und LCD Bildschirm unter Benutzerinteraktion.&lt;/li&gt;
+&lt;li&gt;Nach Entnahme einer korrekten Anzahl von Teilen nach dem Auftrag gibt das System die Kiste frei und liefert die nächste Kiste mit Teilen zu.&lt;/li&gt;
+&lt;li&gt;Informationen über die zu entnehmenden Teilen und Warnungenen sind auf LCD Bildschirm angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Weitere Details finden Sie in &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/Karakuri_slides.pdf&#34; target=&#34;_blank&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pin matrix support mechanism for 3D printing</title>
+      <link>https://chuanfang-ning.github.io/project/pin-matrix/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/pin-matrix/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.linkedin.com/in/%E7%8E%89-%E7%8E%8B-055391a1?trk=pub-pbmap&amp;originalSubdomain=cn&#34;&gt;Prof. Yu Wang&lt;/a&gt;, Xiaoyang Zhang &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Group project with &lt;a href=&#34;https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7k06m0v5740p609f6v0my0h2036096&#34;&gt;patent (CN110193929A)&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Members: Chuanfang Ning, &lt;a href=&#34;https://www.linkedin.com/in/yizhen-li-a24b67210?originalSubdomain=cn&#34;&gt;Yizhen Li&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/yucheng-zhang-324839220?originalSubdomain=de&#34;&gt;Yucheng Zhang&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.cn/in/zeling-long-0b3124197&#34;&gt;Zeling Long&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and prototyped a supporting mechanism with 400 pins that can move and lock independently to support different less-supported shape during additive manufacturing.&lt;/li&gt;
+&lt;li&gt;Developed a C++ program with simple user interface to convert a 3D-print model automatically into a complementary supporting shape.&lt;/li&gt;
+&lt;li&gt;Drove 25 servo motors to drive the 400 pins to form the generated supporting shape.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fischer Intelligent Factory 4.0 Automation</title>
+      <link>https://chuanfang-ning.github.io/project/fischer-intelligent-factory/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/fischer-intelligent-factory/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Research Assistant at &lt;a href=&#34;https://srias.tongji.edu.cn/&#34;&gt;Research Institution for Intelligent Autonomous Systems, Shanghai under Intelligent Manufacturing Grant&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://srias.tongji.edu.cn/b4/81/c17867a177281/page.htm&#34;&gt;Prof. Nan Xie&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;h2 id=&#34;project-goal&#34;&gt;Project goal&lt;/h2&gt;
+&lt;p&gt;The project aims at simulating the intelligent factory processing pipeline with a &lt;a href=&#34;https://www.fischertechnik.de/en/simulating/industry-4-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miniature model&lt;/a&gt; from Fischer.&lt;/p&gt;
+&lt;h2 id=&#34;project-contents&#34;&gt;Project contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;implemented distributed control for multi-processing stations on SIEMENS PLC S-1500.&lt;/li&gt;
+&lt;li&gt;programed intelligent ware management, processing and sorting pipeline with TIA Portal.&lt;/li&gt;
+&lt;li&gt;developed a human-model interface for the industrial process control with SIEMENS Comfort Panel.&lt;/li&gt;
+&lt;li&gt;Interactive control of industrial process with Virtual Reality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;demo-for-industrial-pipeline-showcase&#34;&gt;Demo for industrial pipeline showcase&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uWjZg3jSBmg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

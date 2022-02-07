@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/control/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Control</title>
+      <link>https://chuanfang-ning.github.io/tag/control/</link>
+    </image>
+    
+    <item>
+      <title>EMG Control of haptic paddle</title>
+      <link>https://chuanfang-ning.github.io/project/emg-haptics/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/emg-haptics/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/haptic-human-robot-interfaces-MICRO-553&#34;&gt;MICRO-553 Haptic human robot interfaces&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://www.linkedin.com/in/dorian-bignet-92b38816b?originalSubdomain=fr&#34;&gt;Dorian Bignet&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/mohamed.bouri?lang=en&#34;&gt;Prof. Mohamed Bouri&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://people.epfl.ch/evgenia.roussinova?lang=en&#34;&gt;Dr. Evgenia Roussinova&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;The aim of this specialization project is to design and implement a control strategy allowing a user to
+control the haptic paddle through the contraction of a muscle, which is recorded by electromyography (EMG). The lab specialisation includes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;processing and filtering of raw EMG signal&lt;/li&gt;
+&lt;li&gt;developing EMG control strategies of haptic paddle&lt;/li&gt;
+&lt;li&gt;applying the control strategies to 3 different application:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Assistive use case: facilate human in strength tasks&lt;/li&gt;
+&lt;li&gt;Rehabilitation use case: reinforce muscle fibers and help reinnervation after a stroke&lt;/li&gt;
+&lt;li&gt;Grasping use case: combined position &amp;amp; torque control for hand prosthesis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details can be found in the &lt;a href=&#34;https://chuanfang-ning.github.io/uploads/HHRI_report.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_RMS_filtering.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 1 Band-pass filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_RMS_filtering_lp.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 2 RMS filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/EMG_moving_filtered.png&#34; alt=&#34;Demo&#34; style=&#34;width: 210px;height: 155px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 3 Moving threshold filtered signal&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/tremor.gif&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 4 Tremored EMG control&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/no_tremor.gif&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Fig. 5 Tremor-free EMG control (+moving threshold)&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MPC Control of Quadcopter</title>
+      <link>https://chuanfang-ning.github.io/project/mpc-mini-project/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/mpc-mini-project/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425&#34;&gt;ME-425 Model Predictive Control&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/colin.jones?lang=en&#34;&gt;Prof. Colin Jones&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;MPC controller design in matlab with &lt;a href=&#34;https://www.gurobi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gurobi&lt;/a&gt; and &lt;a href=&#34;https://web.casadi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Casadi&lt;/a&gt; optimizer.&lt;/li&gt;
+&lt;li&gt;linear MPC for decomposed quadcopter systems&lt;/li&gt;
+&lt;li&gt;offset-free MPC tracking regulator in case of fluctuating quadcopter mass&lt;/li&gt;
+&lt;li&gt;non-linear MPC for integral quadcopter system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/LMPC.png&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 170px;&#34; /&gt;
+&lt;figcaption&gt;Trajectory following with combined linear MPC controller&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/offset_free_MPC.png&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Trajectory recovery from mass disturbance with offset-free MPC controller&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/NMPC.png&#34; alt=&#34;Demo&#34; style=&#34;width: 250px;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Trajectory following with non-linear MPC controller&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/offset_free_diagrams.png&#34; alt=&#34;Quadcopter trajecotry following with combined linear MPC controller&#34; style=&#34;width: 450px;height: 250px;&#34; /&gt;
+&lt;figcaption&gt;Quadcopter states during offset-free MPC simulation&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/NMPC_diagrams.png&#34; alt=&#34;Demo&#34; style=&#34;width: 450px;height: 250px;&#34;/&gt;
+&lt;figcaption&gt;Quadcopter states during NMPC simulation&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>CPG Control of three-link biped walker</title>
+      <link>https://chuanfang-ning.github.io/project/cpg-biped-walker/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/cpg-biped-walker/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://edu.epfl.ch/coursebook/en/legged-robots-MICRO-507&#34;&gt;MICRO-507 Legged Robots&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://people.epfl.ch/guilain.brunoro?lang=en&#34;&gt;Guilain Brunoro&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/mingchi.hou/?lang=en&#34;&gt;Mingchi Hou&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://www.epfl.ch/labs/biorob/people/ijspeert/&#34;&gt;Prof. Auke Ijspeert&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;kinetic, dynamic and impact map modelling of a three-link-biped walker in Matlab&lt;/li&gt;
+&lt;li&gt;animated the walker in simulation given the model, actuation and disturbance&lt;/li&gt;
+&lt;li&gt;implemented a CPG controller to mimic the torque control obtained from a PD controller&lt;/li&gt;
+&lt;li&gt;evaluated the control metrics in terms of robustness against perturbations, walking speed, gait length/frequencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Control law: mixed control with CPG (30% feedforward) + PD(70% feedback).
+Object function:&lt;/p&gt;
+&lt;div&gt;&lt;font size=&#39;2&#39;&gt;$$f(p)=w_1\times|\dot{x}\_{hip}-\dot{\bar{x}}\_{hip}(p)|+w_2\times CoT(p)+w_3\times| z\_{hip}-\bar{z}\_{hip}(p)|+w_4\times| f\_{rq}-\bar{f}\_{rq}(p)|$$&lt;/font&gt;&lt;/div&gt;
+The object function always minimizes the cost of transfer and tries to mimic the pattern generated by a PD controller.
+The object function can be edited to generate gait with certain step length or frequency or maximize the gait speed.
+&lt;p&gt;Demo for our project:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JjUJ8tmacjw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

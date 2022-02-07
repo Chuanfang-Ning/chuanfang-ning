@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataset | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/dataset/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dataset</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dataset</title>
+      <link>https://chuanfang-ning.github.io/tag/dataset/</link>
+    </image>
+    
+    <item>
+      <title>AutoSynPose: Automatic Generation of Synthetic Datasets for 6D Object Pose Estimation</title>
+      <link>https://chuanfang-ning.github.io/project/ue4-dataset/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ue4-dataset/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.fh-aachen.de/menschen/kallweit&#34;&gt;Prof. Stephan Kallweit&lt;/a&gt;, &lt;a href=&#34;https://www.fh-aachen.de/menschen/engemann&#34;&gt;Heiko Engemann&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;This project is a continuation to my semester project: 
+&lt;a href=&#34;https://chuanfang-ning.github.io/project/ur5-dataset/&#34; title=&#34;Automatic 6D Pose Detection Dataset Capture with UR5 Robot&#34;&gt;Automatic 6D Pose Detection Dataset Capture with UR5 Robot&lt;/a&gt;. We extended our real-world dataset generation pipeline by adding a parallel synthetic dataset generation pipeline, which allows us to improve the performance of our object detection model by combining synthetic and real-world data.&lt;/p&gt;
+&lt;p&gt;We used Unreal Engine 4 to generate a 6D pose detection dataset: &lt;a href=&#34;http://autosynpose.fh-aachen.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoSynPose&lt;/a&gt; with 6 Mio. subsegments for 5 &lt;a href=&#34;https://www.ycbbenchmarks.com/object-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YCB objects&lt;/a&gt; using 97 rendering locations in 12 different environments.&lt;/p&gt;
+&lt;p&gt;This is done by extending the open-source &lt;a href=&#34;https://github.com/NVIDIA/Dataset_Synthesizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVIDIA Deep learning Dataset Synthesizer (NDDS)&lt;/a&gt; plugin by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;extending the domain randomization from stochastic distractors to rigid bodies( roughness, specular, metallic and HUE shift).&lt;/li&gt;
+&lt;li&gt;extending the stochastic distractors with realistic distractor set (&lt;a href=&#34;https://www.ycbbenchmarks.com/object-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YCB objects&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;adding realistic collision and gravity feature&lt;/li&gt;
+&lt;li&gt;adding automatic perspective randomization&lt;/li&gt;
+&lt;li&gt;logging domain randomization parameters and enabling clustering of big dataset into sub-datasets accordingly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Demo:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/q2MA7q0aaU0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;More details to be found in our &lt;a href=&#34;http://dx.doi.org/10.3233/FAIA200770&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic 6D Pose Detection Dataset Capture with UR5 Robot</title>
+      <link>https://chuanfang-ning.github.io/project/ur5-dataset/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ur5-dataset/</guid>
+      <description>&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; &lt;a href=&#34;https://www.fh-aachen.de/fachbereiche/maschinenbau-und-mechatronik/forschung-projekte/studentische-projekte/pro8projekt2&#34;&gt;Semester project&lt;/a&gt; at FH Aachen, Wintersemester 2019 &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://www.fh-aachen.de/menschen/kallweit&#34;&gt;Prof. Stephan Kallweit&lt;/a&gt;, &lt;a href=&#34;https://www.fh-aachen.de/menschen/engemann&#34;&gt;Heiko Engemann&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;This project provides an automatic pipeline of creating a real-world 6D pose detection dataset with the help of a wandering UR5 robotic arm on a mobile platform. The 3D model of the training object and its initial offset to the robot base are to be provided. The dataset consits of RGB images, depth images, segmentation masks and 6D poses for the training object.&lt;/p&gt;
+&lt;p&gt;This automatic pipeline is mainly targeted at industrial &lt;strong&gt;manipulating&lt;/strong&gt; or &lt;strong&gt;quality inspection&lt;/strong&gt; tasks, where a deep learning model is used to identify/inspect products with &lt;strong&gt;accurate known models&lt;/strong&gt;. The considered application flowchart for the project is shown as in the figure below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo1.png&#34; alt=&#34;Demo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In this project, the UR5 robot is mounted on a mobile platform and holds an Intel D435 RGBD camera to wander around the object of interest with the following pattern:&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo2.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Robot stop at a place to scan 1/8 sphere space of the training object&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo3.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;At each scanning point the robot turns the sensor to get multi-perspective images&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;The RGB and depth images are captured by the sensor and the ground truth of object&amp;rsquo;s 6D poses, instance/segmentation mask and 3D bounding boxes are calculated from the camera matrix corresponding to robot&amp;rsquo;s joint states in real time.&lt;/p&gt;
+&lt;p&gt;Experiment:&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo4.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Robot and environment setup&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo5.png&#34; alt=&#34;Demo&#34; style=&#34;height: 170px;&#34;/&gt;
+&lt;figcaption&gt;Captured dataset samples&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;Result:&lt;/p&gt;
+&lt;p&gt;To evaluate the quality of ground truth generated by the method, we annotated the ground truth directly from RGB images once again and checked the BF-Score and IoU of real ground truth with the ground truth generated by our method. The subsegment with YCB bottle got an average score of 0.5156 (BF) and 0.8451 (IoU). The subsegment with Lego car got an average score of 0.8618 (BF) and 0.8551 (IoU).
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/ur5_demo6.png&#34; alt=&#34;Demo&#34; style=&#34;height: 300px;&#34;/&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font size=&#39;2&#39;&gt; (Left) Generated ground truth, (Middle) Manually annotated ground truth, (Right) Overlay for error checks&lt;/font&gt;&lt;/center&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+&lt;p&gt;A simple show case in Gazebo simulation:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RGKMWWD_0eM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;More details to be found in the &lt;a href=&#34;https://github.com/Chuanfang-Neptune/Realworld_dataset_capturer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

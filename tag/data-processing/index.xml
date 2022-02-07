@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Processing | Chuanfang Ning</title>
+    <link>https://chuanfang-ning.github.io/tag/data-processing/</link>
+      <atom:link href="https://chuanfang-ning.github.io/tag/data-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Last update Feb. 2022. Chuanfang Ning © 2021-2022 </copyright><lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuanfang-ning.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Data Processing</title>
+      <link>https://chuanfang-ning.github.io/tag/data-processing/</link>
+    </image>
+    
+    <item>
+      <title>U_Cite: America politician network analysis based on Quotebank</title>
+      <link>https://chuanfang-ning.github.io/project/ucite/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://chuanfang-ning.github.io/project/ucite/</guid>
+      <description>&lt;div&gt;&lt;font color=&#39;gray&#39;&gt;Final project for &lt;a href=&#34;https://dlab.epfl.ch/teaching/fall2021/cs401/&#34;&gt;CS-401 Applied Data Analysis&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Students: Chuanfang Ning, &lt;a href=&#34;https://github.com/irvin-mero&#34;&gt;Irvin Mero Zambrano&lt;/a&gt;, &lt;a href=&#34;https://github.com/tomcastigl&#34;&gt;Thomas Castiglione&lt;/a&gt;, &lt;a href=&#34;https://github.com/LyKex&#34;&gt;Guoyuan Liu&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Lecturer: &lt;a href=&#34;https://people.epfl.ch/robert.west?lang=en&#34;&gt;Prof. Robert West&lt;/a&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/record/4277311#.Yf_ZA-rMJm8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quotebank&lt;/a&gt; is a dataset of 235 million unique, speaker-attributed quotations that were extracted from 196 million English news articles crawled from over 377 thousand English web domains. The project aims at analyzing the quotebank mentions in between year 2015 and 2020 to reveal the bi-polar political landscape of America. Keypoints in the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;data cleaning and preprocessing pipeline from original &lt;a href=&#34;https://zenodo.org/record/4277311#.Yf_ZA-rMJm8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quotebank quotations&lt;/a&gt;, &lt;a href=&#34;https://dumps.wikimedia.org/wikidatawiki/entities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikidata dump&lt;/a&gt; and &lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QAN5VX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Partisan Audience Bias Scores Dataset&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;political mention analysis pipeline including topic, sentiment and bias analysis.&lt;/li&gt;
+&lt;li&gt;political network analysis pipeline including network construction, community/centrality analysis and edge/node feature detection.&lt;/li&gt;
+&lt;li&gt;visualisation pipeline for the analysis above with interactive network graphs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details to be found in our &lt;a href=&#34;https://irvin-mero.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; and &lt;a href=&#34;https://irvin-mero.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
