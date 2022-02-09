@@ -22,9 +22,9 @@
 &lt;p&gt;I am working as a Research Assistant at Biorob this semester to continue on my semester project : &lt;a href=&#34;https://chuanfang-ning.github.io/project/omnibot-baseline/&#34;&gt;&amp;ldquo;Omnibot: Mobile Furniture Baseline Development&amp;rdquo;&lt;/a&gt; in collaboration with Lixuan Tang.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;We are extending the Omnibot design to multiple copies which prepares for a swarm robotics framework.&lt;/li&gt;
-&lt;li&gt;We are evaluating our current furniture skeleton localisation model on the Omnibot with the help of key-point localisation with Optitrack system.&lt;/li&gt;
-&lt;li&gt;We are facilitating the skeleton localisation model with real and synthetic data for Omnibot use cases.&lt;/li&gt;
-&lt;li&gt;We will improve the network structure based on the test performance.&lt;/li&gt;
+&lt;li&gt;We are evaluating our current &lt;a href=&#34;https://openpifpaf.github.io/intro.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenPifPaf&lt;/a&gt; skeleton localisation model on the Omnibot with the help of key-point localisation with Optitrack system.&lt;/li&gt;
+&lt;li&gt;We are facilitating the OpenPifPaf localisation model with real and synthetic data for Omnibot use cases.&lt;/li&gt;
+&lt;li&gt;We will improve the OpenPifPaf network structure for furniture localisation based on the test performance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;To be updated.&lt;/p&gt;
 </description>
