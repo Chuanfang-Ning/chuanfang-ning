@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Improvement of an automation system that helps with the neurogenetics experimentation. Includes mechanical design, prototyping and verification, control process programming with C&#43;&#43; on Arduino and user control interface programming with python." />
+  <meta name="description" content="Improvement of an automation system that helps with neurogenetics experimentation. Includes mechanical design, control process programming and data analysis with computer vision and neural networks." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://chuanfang-ning.github.io/project/optobot/" />
@@ -336,7 +336,7 @@
   <meta property="og:site_name" content="Chuanfang Ning" />
   <meta property="og:url" content="https://chuanfang-ning.github.io/project/optobot/" />
   <meta property="og:title" content="Improvement on Optobot - an Automated system for Neurogenetics Experimentation | Chuanfang Ning" />
-  <meta property="og:description" content="Improvement of an automation system that helps with the neurogenetics experimentation. Includes mechanical design, prototyping and verification, control process programming with C&#43;&#43; on Arduino and user control interface programming with python." /><meta property="og:image" content="https://chuanfang-ning.github.io/project/optobot/featured.png" />
+  <meta property="og:description" content="Improvement of an automation system that helps with neurogenetics experimentation. Includes mechanical design, control process programming and data analysis with computer vision and neural networks." /><meta property="og:image" content="https://chuanfang-ning.github.io/project/optobot/featured.png" />
     <meta property="twitter:image" content="https://chuanfang-ning.github.io/project/optobot/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -391,7 +391,7 @@
       "url": "https://chuanfang-ning.github.io/media/icon_hua7e41f547ede025b028e7da3e44f3d06_120918_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Improvement of an automation system that helps with the neurogenetics experimentation. Includes mechanical design, prototyping and verification, control process programming with C++ on Arduino and user control interface programming with python."
+  "description": "Improvement of an automation system that helps with neurogenetics experimentation. Includes mechanical design, control process programming and data analysis with computer vision and neural networks."
 }
 </script>
 
@@ -832,7 +832,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Semester Project 2020 Fall at <a href="https://www.epfl.ch/labs/ramdya-lab/" target="_blank" rel="noopener">Ramdya Lab (Neuroengineering Laboratory)</a> with 6.0/6.0.</p>
+      <p>Semester Project 2020 Fall at <a href="https://www.epfl.ch/labs/ramdya-lab/" target="_blank" rel="noopener">Ramdya Lab (Neuroengineering Laboratory)</a> with 6.0/6.0. The project is continued by a course project of <a href="https://edu.epfl.ch/coursebook/fr/controlling-behavior-in-animals-and-robots-BIOENG-456" target="_blank" rel="noopener">BIOENG-456 Controlling behavior in animals and robots</a>.</p>
 <div><font size='4' color = 'gray'> Supervisor: <a href="https://people.epfl.ch/pavan.ramdya?lang=en">Prof. Pavan Ramdya</a>, <a href="https://people.epfl.ch/victor.lobatorios">Dr. Victor Lobato</a>, <a href="https://people.epfl.ch/daniel.morales">Dr. Daniel Morales</a>, </font></div>
 <h2 id="project-goal">Project goal</h2>
 <p>This semester project aims at redesigning, prototyping and programming the carousel, gripper and arena module for the <a href="https://www.epfl.ch/labs/ramdya-lab/wp-content/uploads/2019/10/Robotic-experimental-automation.mp4?_=4" target="_blank" rel="noopener">old Optobot system</a> to increase its precision on carrying out optogenetic experimentation, which helps to expose Drosophilas to accurately controlled stimuli and record their behaviors. More info on the <a href="https://www.epfl.ch/labs/ramdya-lab/" target="_blank" rel="noopener">lab page</a>.</p>
@@ -851,15 +851,25 @@
 <figcaption>returning error (remaining container breaks the shelf)</figcaption>
 </td>
 </tr></table>
+<p>The project is continued by the course project of  <a href="https://edu.epfl.ch/coursebook/fr/controlling-behavior-in-animals-and-robots-BIOENG-456" target="_blank" rel="noopener">BIOENG-456 Controlling behavior in animals and robots</a> to explore more on the analysis of collected data. The drosophila melanogasters are segmented with OpenCV and the neuromechanical model key points are extracted with a deep-learning based approach <a href="https://www.nature.com/articles/s41592-021-01226-z" target="_blank" rel="noopener">LiftPose3D</a>, which first estimates the 2D key-point of drosophila and then lift the pose to 3D space.</p>
+<table><tr>
+<td> 
+<img src="/media/Optobot_analysis.png" alt="Demo" style="height: 250px" />
+<figcaption>Segmentation and 2D keypoints extraction</figcaption>
+</td>
+<td> 
+<img src="/media/Optobot_analysis_2.png" alt="Demo" style="height: 250px"/>
+<figcaption>3D model lifted from 2D</figcaption>
+</td>
+</tr></table>
 <h2 id="project-content">Project content</h2>
 <ul>
 <li>design and model new carousel, gripper and arena module to resolve the diagnosed failure modes from hardware.</li>
 <li>close the control loop of motor motion with new sensor and increase system precision from software.</li>
-<li>manufacture the prototype of the design in the workshop.</li>
-<li>validate and evolve the design until a functional version.</li>
-<li>adapt control logic and update programs to fit the new design.</li>
+<li>adapt control logic and update program interface to fit the new design.</li>
+<li>analyze recorded data of the new system with computer vision and deep learning method. (course project)</li>
 </ul>
-<h2 id="demo">Demo:</h2>
+<h2 id="semester-project-demo">Semester Project Demo:</h2>
 <p>Note that the shelf material was out of stock by the semester end. The demo is a show case without shelf. A pink marker is pasted on carousel base to represent the rotating shelves.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -884,6 +894,8 @@
   <a class="badge badge-light" href="/tag/automation-systems/">Automation Systems</a>
   
   <a class="badge badge-light" href="/tag/embedded-systems/">Embedded Systems</a>
+  
+  <a class="badge badge-light" href="/tag/deep-learning-and-data-sciences/">Deep Learning and Data Sciences</a>
   
 </div>
 

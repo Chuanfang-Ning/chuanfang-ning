@@ -381,7 +381,7 @@ roslaunch ros_basics_control real_thymio.launch
       <link>https://chuanfang-ning.github.io/project/optobot/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://chuanfang-ning.github.io/project/optobot/</guid>
-      <description>&lt;p&gt;Semester Project 2020 Fall at &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramdya Lab (Neuroengineering Laboratory)&lt;/a&gt; with 6.0/6.0.&lt;/p&gt;
+      <description>&lt;p&gt;Semester Project 2020 Fall at &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramdya Lab (Neuroengineering Laboratory)&lt;/a&gt; with 6.0/6.0. The project is continued by a course project of &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/controlling-behavior-in-animals-and-robots-BIOENG-456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIOENG-456 Controlling behavior in animals and robots&lt;/a&gt;.&lt;/p&gt;
 &lt;div&gt;&lt;font size=&#39;4&#39; color = &#39;gray&#39;&gt; Supervisor: &lt;a href=&#34;https://people.epfl.ch/pavan.ramdya?lang=en&#34;&gt;Prof. Pavan Ramdya&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/victor.lobatorios&#34;&gt;Dr. Victor Lobato&lt;/a&gt;, &lt;a href=&#34;https://people.epfl.ch/daniel.morales&#34;&gt;Dr. Daniel Morales&lt;/a&gt;, &lt;/font&gt;&lt;/div&gt;
 &lt;h2 id=&#34;project-goal&#34;&gt;Project goal&lt;/h2&gt;
 &lt;p&gt;This semester project aims at redesigning, prototyping and programming the carousel, gripper and arena module for the &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/wp-content/uploads/2019/10/Robotic-experimental-automation.mp4?_=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;old Optobot system&lt;/a&gt; to increase its precision on carrying out optogenetic experimentation, which helps to expose Drosophilas to accurately controlled stimuli and record their behaviors. More info on the &lt;a href=&#34;https://www.epfl.ch/labs/ramdya-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lab page&lt;/a&gt;.&lt;/p&gt;
@@ -400,15 +400,25 @@ roslaunch ros_basics_control real_thymio.launch
 &lt;figcaption&gt;returning error (remaining container breaks the shelf)&lt;/figcaption&gt;
 &lt;/td&gt;
 &lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;The project is continued by the course project of  &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/controlling-behavior-in-animals-and-robots-BIOENG-456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIOENG-456 Controlling behavior in animals and robots&lt;/a&gt; to explore more on the analysis of collected data. The drosophila melanogasters are segmented with OpenCV and the neuromechanical model key points are extracted with a deep-learning based approach &lt;a href=&#34;https://www.nature.com/articles/s41592-021-01226-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LiftPose3D&lt;/a&gt;, which first estimates the 2D key-point of drosophila and then lift the pose to 3D space.&lt;/p&gt;
+&lt;table&gt;&lt;tr&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/Optobot_analysis.png&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34; /&gt;
+&lt;figcaption&gt;Segmentation and 2D keypoints extraction&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;td&gt; 
+&lt;img src=&#34;https://chuanfang-ning.github.io/media/Optobot_analysis_2.png&#34; alt=&#34;Demo&#34; style=&#34;height: 250px&#34;/&gt;
+&lt;figcaption&gt;3D model lifted from 2D&lt;/figcaption&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
 &lt;h2 id=&#34;project-content&#34;&gt;Project content&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;design and model new carousel, gripper and arena module to resolve the diagnosed failure modes from hardware.&lt;/li&gt;
 &lt;li&gt;close the control loop of motor motion with new sensor and increase system precision from software.&lt;/li&gt;
-&lt;li&gt;manufacture the prototype of the design in the workshop.&lt;/li&gt;
-&lt;li&gt;validate and evolve the design until a functional version.&lt;/li&gt;
-&lt;li&gt;adapt control logic and update programs to fit the new design.&lt;/li&gt;
+&lt;li&gt;adapt control logic and update program interface to fit the new design.&lt;/li&gt;
+&lt;li&gt;analyze recorded data of the new system with computer vision and deep learning method. (course project)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;demo&#34;&gt;Demo:&lt;/h2&gt;
+&lt;h2 id=&#34;semester-project-demo&#34;&gt;Semester Project Demo:&lt;/h2&gt;
 &lt;p&gt;Note that the shelf material was out of stock by the semester end. The demo is a show case without shelf. A pink marker is pasted on carousel base to represent the rotating shelves.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -659,7 +669,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-836524791&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-962481573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -669,7 +679,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-836524791&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-962481573&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
