@@ -77,7 +77,7 @@
 &lt;li&gt;political network analysis pipeline including network construction, community/centrality analysis and edge/node feature detection.&lt;/li&gt;
 &lt;li&gt;visualisation pipeline for the analysis above with interactive network graphs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;More details to be found in our &lt;a href=&#34;https://irvin-mero.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; and &lt;a href=&#34;https://irvin-mero.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More details to be found in our &lt;a href=&#34;https://github.com/epfl-ada/ada-2021-project-date-a-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; and &lt;a href=&#34;https://team-ada-dad.github.io/date_a_data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -669,7 +669,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-962481573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-627981345&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -679,7 +679,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-962481573&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-627981345&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1120,24 +1120,6 @@ Three
   &lt;iframe src=&#34;https://www.youtube.com/embed/uWjZg3jSBmg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://chuanfang-ning.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://chuanfang-ning.github.io/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://chuanfang-ning.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://chuanfang-ning.github.io/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
